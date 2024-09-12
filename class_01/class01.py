@@ -1,11 +1,11 @@
-# print("hello python world")
-# print("Python refreshers", "student of python")
+print("hello python world")
+print("Python refreshers", "student of python")
 
-# name :str = 'hamza'
-# print(name)
-# print("name")
-# print("xyz")
+name :str = 'hamza'
+print(name)
+print("name")
+print("xyz")
 
-# name2 = 'hamza'
-# print(name2)
+name2 = 'hamza'
+print(name2)
 
