@@ -91,10 +91,10 @@ user_height = int(input(prompt))
 if user_height >= 48:
     print("You can ride")
 else:
-    print("You can't ride")
+    print("You can not ride")
 ```
 
 Output:
 ```
-You can't ride
+You can not ride
 ```
