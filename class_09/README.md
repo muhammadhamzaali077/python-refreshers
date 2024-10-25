@@ -74,4 +74,4 @@ else:
 - **Greeting Function**: Uses `print` to display a greeting with the provided name.
 - **Odd Numbers Loop**: Demonstrates a `for` loop with a step.
 - **Factorial Calculation**: Shows both recursive and iterative methods for calculating factorial.
-- **Condition Handling**: Demonstrates a basic `if-else` statement.
+- **Condition Handling**: Demonstrates a basic `if-else` statement. 
